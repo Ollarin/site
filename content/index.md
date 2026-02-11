@@ -10,4 +10,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 This is a test
 
 
-another test
+[[another test]]
