@@ -6,7 +6,7 @@ on:
       - v4
 
 env:
-  THEME_NAME: adrenaline
+  THEME_NAME: abecedarium
 
 
 permissions:
