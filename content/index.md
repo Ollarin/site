@@ -1,6 +1,7 @@
 ---
 title: Technical art blurbs
 enableToc: "true"
+tags:
 ---
 # Test
 
