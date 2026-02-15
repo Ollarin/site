@@ -14,7 +14,7 @@ This is caused due to the vertex transformations being stored as floats, so when
 
 ## The problem
 
-![Untitled](Untitled.png)
+![Untitled](splitting_deformation_layers_001.png)
 
 Autodesk has a solution, which is to basically allow your mesh to move with the root, that way the vertex transformations aren't being calculated from massive distances. This will cause double transformations of course, so you'll need to negate the roots transforms from the skincluster ([http://knowledge.autodesk.com/support/maya/troubleshooting/caas/sfdcarticles/sfdcarticles/SkinCluster-deformations-at-large-distances-from-origin.html](http://knowledge.autodesk.com/support/maya/troubleshooting/caas/sfdcarticles/sfdcarticles/SkinCluster-deformations-at-large-distances-from-origin.html)).
 
@@ -24,7 +24,7 @@ One quick solution is to split your deformations into a separate layer from your
 
 So, how does this work? Basically you need to create another hierarchy which is a duplicate of the control/deformation hierarchy.
 
-![Splitting the hierarchy into two layers](Untitled%201.png)
+![Splitting the hierarchy into two layers](splitting_deformation_layers_002.png)
 
 Splitting the hierarchy into two layers
 
@@ -32,13 +32,13 @@ Your control hierarchy will have direct connections back into the deformation la
 
 Now, you have the geometry deforming at origin, great! Now what? Well, your render geometry (the geometry that will finally be rendered and moving with the root) should be parent under your root and inheriting transforms. To inherit the local deformations from deformation layer, you can either connect your shape nodes directly or you can do a blendshape (set to local space).
 
-![Control hierarchy connecting into deformation layer](Untitled%202.png)
+![Control hierarchy connecting into deformation layer](splitting_deformation_layers_003.png)
 
 Control hierarchy connecting into deformation layer
 
 Perfect, now you have all your deformations on origin and you're able to move the control root as far as you'd like without any jittering.
 
-![Moved a billion units from origin.](Untitled%203.png)
+![Moved a billion units from origin.](splitting_deformation_layers_004.png)
 
 Moved a billion units from origin.
 
