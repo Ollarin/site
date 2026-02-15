@@ -1,8 +1,10 @@
 ---
-title: Example Title
-draft: true
+date:
 tags:
-  - test2
+  - maya
+  - math
+  - rig
+draft: true
 ---
 
 # Extracting Bend and roll rotations

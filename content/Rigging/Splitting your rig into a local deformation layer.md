@@ -1,7 +1,10 @@
-# Splitting your rig into a local deformation layer
-
-Created: April 9, 2024 5:53 PM
-Tags: Maya
+---
+date:
+tags:
+  - maya
+  - rig
+draft: false
+---
 
 ## Overview
 
