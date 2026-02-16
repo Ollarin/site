@@ -31,4 +31,4 @@ $$
 
 This is an inline math expression $e^{2i\pi} = 1$.
 
-![[Untitled.base]]
+
