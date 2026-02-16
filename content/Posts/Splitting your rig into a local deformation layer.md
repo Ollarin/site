@@ -1,5 +1,5 @@
 ---
-date:
+date: 2015-09-23T00:00:00
 tags:
   - maya
   - rig
