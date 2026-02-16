@@ -12,10 +12,9 @@ Distinguishing and extracting 'Swing' (bending rotations) from 'Twist' (rolling 
 
 Bend will contain the yaw and pitch rotations, while the roll will only contain roll. 
 
-[matrix](https://www.notion.so/matrix-42dc1b5b6a584ce88e55d666c1aea385?pvs=21) 
 
 $$
-R =Original\ Rotation\ Matrix\\
+R =Original\ Rotation\ Matrix \\
 B = Aim \ Matrix
 $$
 
