@@ -67,10 +67,12 @@ from maya import cmds
 # Roll driving bend
 
 $$
-R =Original\ Rotation\ Matrix\\
-RawBend = Aim \ Matrix\\
-Roll = R*B^{-1}\\
-CleanBend=R*Roll^{-1}
+\begin{align}
+R &= Original\ Rotation\ Matrix\\
+RawBend &= Aim \ Matrix\\
+Roll &= R*B^{-1}\\
+CleanBend &= R*Roll^{-1}
+\end{align}
 $$
 
 <aside>
