@@ -1,15 +1,11 @@
 ---
-date:
+date: 2015-09-23T00:00:00
 tags:
   - maya
   - math
   - rig
 draft: true
 ---
-
-# Extracting Bend and roll rotations
-
-
 # Overview
 
 Distinguishing and extracting 'Swing' (bending rotations) from 'Twist' (rolling rotations) can be beneficial in areas like physics, engineering, and computer animation. 'Swing' refers to bending rotations, while 'Twist' indicates a spin around the object's own axis. Separating these rotations allows for more precise and controlled movement, useful in many applications.
