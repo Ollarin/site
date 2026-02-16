@@ -32,3 +32,10 @@ $$
 This is an inline math expression $e^{2i\pi} = 1$.
 
 
+> [!tip] 
+> Callouts can have custom titles
+
+
+
+> [!info]
+> Lorem ipsum dolor sit amet
