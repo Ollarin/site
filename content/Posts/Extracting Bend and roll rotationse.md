@@ -14,16 +14,20 @@ Bend will contain the yaw and pitch rotations, while the roll will only contain 
 
 
 $$
-R =Original\ Rotation\ Matrix \\
-B = Aim \ Matrix
+\begin{aligned}
+R &= \text{Original Rotation Matrix} \\
+B &= \text{Aim Matrix}
+\end{aligned}
 $$
 
 # Bend driving twist
 
 $$
-R =Original\ Rotation\ Matrix\\
-Bend = Aim \ Matrix\\
-Roll = R*Bend^{-1}\\
+\begin{aligned}
+R &= Original\ Rotation\ Matrix\\
+Bend &= Aim \ Matrix\\
+Roll &= R*Bend^{-1}\\
+\end{aligned}
 $$
 
 <aside>
