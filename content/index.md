@@ -15,7 +15,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 This is a test
 
 ### Sub header
-[[another test]]
+[[Cylindrical collisions]]
 
 
 # Another heading

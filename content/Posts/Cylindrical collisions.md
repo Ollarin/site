@@ -1,7 +1,9 @@
 ---
 date:
 tags:
-  - example-tag
+  - maya
+  - math
+  - rig
 draft: true
 ---
  
