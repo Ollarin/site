@@ -31,6 +31,4 @@ $$
 
 This is an inline math expression $e^{2i\pi} = 1$.
 
-<iframe src="https://editor.p5js.org/admiralra/full/JfMvxIyTs" width="100%" height="800"></iframe>
-
-#example-tag 
+![[Untitled.base]]
