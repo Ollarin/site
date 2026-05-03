@@ -10,7 +10,19 @@ draft: true
 
 pass
 
-# Core idea
+# How does it work?
 
 pass
 
+# Implementation
+
+pass
+
+###  Maya Nodes
+Pass
+
+### Maya Bifrost
+pass
+
+### Unreal Engine Control rig
+Pass
