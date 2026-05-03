@@ -6,9 +6,7 @@ tags:
   - rig
 draft: true
 ---
-# Introduction
-
-pass
+A few years ago, I saw this post on Twitter about skirt collisions (My original post: https://x.com/Ollarin/status/1703843501123792968), which looked reall
 
 # How does it work?
 
