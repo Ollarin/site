@@ -15,7 +15,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 This is a test
 
 ### Sub header
-[[Spherical collisions with dot products]]
+[[Cylindrical collisions]]
 
 
 # Another heading

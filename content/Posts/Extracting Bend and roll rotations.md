@@ -1,5 +1,5 @@
 ---
-date: 2026-02-19T00:00:00
+date: 2015-09-23T00:00:00
 tags:
   - maya
   - math
@@ -8,7 +8,7 @@ draft: true
 ---
 # Overview
 
-Being able to decompose rotations into bend and roll (sometimes called swing and twist) rotations can be extremely useful in rigging. 
+Distinguishing and extracting 'Swing' (bending rotations) from 'Twist' (rolling rotations) can be beneficial in areas like physics, engineering, and computer animation. 'Swing' refers to bending rotations, while 'Twist' indicates a spin around the object's own axis. Separating these rotations allows for more precise and controlled movement, useful in many applications.
 
 Bend will contain the yaw and pitch rotations, while the roll will only contain roll. 
 
