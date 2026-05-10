@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8319ef6e-478b-4345-a6fc-a392660bd377" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Posts/Cylindrical collisions.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Posts/Cylindrical collisions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "v4",
+    "git-widget-placeholder": "Merging v4",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/my_git_repos/website/site",
     "node.js.detected.package.eslint": "true",
@@ -69,8 +68,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.23567.174" />
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +85,7 @@
       <workItem from="1771191333480" duration="7733000" />
       <workItem from="1771246155709" duration="1927000" />
       <workItem from="1774960370487" duration="623000" />
+      <workItem from="1778009016479" duration="2458000" />
     </task>
     <servers />
   </component>
