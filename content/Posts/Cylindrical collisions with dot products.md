@@ -12,7 +12,7 @@ So here I'll go about documenting the method I ended up with, which seems to wor
 
 # How does it work?
 
-I ended up with just using some simple Dot and Cross products to calculate when to start colliding with the object we wanted to move away, we used a simple dot product to calculate that, and for the angle of the twist while the "Cylinder" was moving through all the different plates.
+I ended up with just using some simple Dot products and Cross products to calculate when to start colliding with the object we wanted to move away, we used a simple dot product to calculate that, and for the angle of the twist while the "Cylinder" was moving through all the different plates.
 
 $$
 \begin{aligned}
