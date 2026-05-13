@@ -19,6 +19,7 @@ $$
 R &= Original\ Rotation\ Matrix\\
 R_{bend} &= Aim \ Matrix\\
 Roll &= R*Bend^{-1}\\
+A \cdot B\\
 \end{aligned}
 $$
 
