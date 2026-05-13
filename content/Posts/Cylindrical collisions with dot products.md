@@ -6,9 +6,9 @@ tags:
   - rig
 draft: true
 ---
-A few years ago, I saw this post on Twitter about skirt collisions (My original post: https://x.com/Ollarin/status/1703843501123792968), which looked really cool, but the author didn't share how it was done. Which inspired me to come up with a way to achieve similar results. 
+A few years ago, I saw this post on Twitter about skirt collisions (My original post: https://x.com/Ollarin/status/1703843501123792968), which looked really cool, but the author didn't share how it was done. Which inspired me to come up with a way to achieve similar results.
 
-
+So here I'll go about documenting the method I ended up with, which seems to work relatively well for what it is. 
 
 # How does it work?
 
@@ -23,7 +23,7 @@ A \cdot B\\
 \end{aligned}
 $$
 
-pass
+
 
 # Implementation
 
