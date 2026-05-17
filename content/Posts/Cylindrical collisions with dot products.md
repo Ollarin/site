@@ -10,9 +10,11 @@ A few years ago, I saw this post on Twitter about skirt collisions (My original 
 
 So here I'll go about documenting the method I ended up with, which seems to work relatively well for what it is. 
 
+I've been asked a few times on how I set it all up, so I'm going to try and explain it below, implementing it in Maya nodes, Bifrost and control rig in unreal engine. 
+
 # How does it work?
 
-I ended up with just using some simple Dot products and Cross products to calculate when to start colliding with the object we wanted to move away, we used a simple dot product to calculate that, and for the angle of the twist while the "Cylinder" was moving through all the different plates.
+The core of the setup is done using just using some simple Dot products and Cross products to calculate when to start colliding with the object we wanted to move away, we used a simple dot product to calculate that, and for the angle of the twist while the "Cylinder" was moving through all the different plates.
 
 $$
 \begin{aligned}
