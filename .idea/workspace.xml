@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8319ef6e-478b-4345-a6fc-a392660bd377" name="Changes" comment="Revert &quot;Quartz sync: May 10, 2026, 3:57 PM&quot;&#10;&#10;This reverts commit f05d53f0">
-      <change beforePath="$PROJECT_DIR$/content/Posts/Cylindrical collisions with dot products.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Posts/Cylindrical collisions with dot products.md" afterDir="false" />
-    </list>
+    <list default="true" id="8319ef6e-478b-4345-a6fc-a392660bd377" name="Changes" comment="Revert &quot;Quartz sync: May 10, 2026, 3:57 PM&quot;&#10;&#10;This reverts commit f05d53f0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,11 @@
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -69,8 +72,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.23567.174" />
-        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -87,6 +90,7 @@
       <workItem from="1771246155709" duration="1927000" />
       <workItem from="1774960370487" duration="623000" />
       <workItem from="1778009016479" duration="2458000" />
+      <workItem from="1778880387464" duration="22000" />
     </task>
     <servers />
   </component>
