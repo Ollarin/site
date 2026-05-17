@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="8319ef6e-478b-4345-a6fc-a392660bd377" name="Changes" comment="Revert &quot;Quartz sync: May 10, 2026, 3:57 PM&quot;&#10;&#10;This reverts commit f05d53f0" />
+=======
+    <list default="true" id="8319ef6e-478b-4345-a6fc-a392660bd377" name="Changes" comment="Revert &quot;Quartz sync: May 10, 2026, 3:57 PM&quot;&#10;&#10;This reverts commit f05d53f0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +71,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\my_git_repos\\website\\site\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -90,7 +97,11 @@
       <workItem from="1771246155709" duration="1927000" />
       <workItem from="1774960370487" duration="623000" />
       <workItem from="1778009016479" duration="2458000" />
+<<<<<<< Updated upstream
       <workItem from="1778880387464" duration="22000" />
+=======
+      <workItem from="1778793511570" duration="54000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
